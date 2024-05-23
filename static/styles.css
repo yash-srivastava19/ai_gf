@@ -1,0 +1,21 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #input-field {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+  }
+  
+  #submit-button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #video-container {
+    margin-top: 20px;
+  }
